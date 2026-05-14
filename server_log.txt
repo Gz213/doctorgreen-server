@@ -1,5 +1,9 @@
 Signaling server running on port 3000
-A user connected: kCVnTTSTxG5gUNKLAAAB
-Registered user 568225330
-User disconnected: kCVnTTSTxG5gUNKLAAAB
-Unregistered user 568225330
+A user connected: uv32CkbIgdbWThCXAAAB
+Registered user 561327711
+A user connected: oGRkeoZLaIy2oyV8AAAD
+Registered user 332551564
+A user connected: WdZ1qwSU1b-LySuXAAAF
+Registered user 912983442
+Offer from 912983442 to 561327711
+Answer to 912983442
